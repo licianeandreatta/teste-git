@@ -22,6 +22,10 @@ class MainAction extends Action {
 	function mostrar() {
 		return 'oi';
 				"redir-boleto-pay" => new RedirectResult("http://www.ebanx.com/")
+				"redir-boleto-pay" => new RedirectResult("http://www.ebanx.com/")
+				"redir-boleto-pay" => new RedirectResult("http://www.ebanx.com/")
+				"redir-boleto-pay" => new RedirectResult("http://www.ebanx.com/")
+				"redir-boleto-pay" => new RedirectResult("http://www.ebanx.com/")
 
 	}
 }
