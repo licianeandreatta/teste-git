@@ -23,7 +23,7 @@ class MainAction extends Action {
 		return 'oi';
 	var $strIdBody = "bHome";
 	var $strIdBody = "bHome";
-	var $strIdBody = "bHome";
+	var $strIdBody = "bHome2";
 
 	}
 
