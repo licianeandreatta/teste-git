@@ -1,6 +1,8 @@
 <?php
 class MainAction extends Action {
 
+	var $teste;
+
 	var $strIdBody = "bHome";
 	var $titlePage = "Ebanx - ";
 	
