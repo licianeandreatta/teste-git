@@ -16,4 +16,8 @@ class MainAction extends Action {
 	function execute() {
 		return "redir-boleto-pay";
 	}
+
+	function mostrar() {
+		return 'oi';
+	}
 }
