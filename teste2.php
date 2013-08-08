@@ -19,6 +19,15 @@ class MainAction extends Action {
 
 	}
 
+	function master() {
+		return 'oi';
+	var $strIdBody = "bHome";
+	var $strIdBody = "bHome";
+	var $strIdBody = "bHome";
+	var $strIdBody = "bHome";
+
+	}
+
 	function mostrar() {
 		return 'oi';
 				"redir-boleto-pay" => new RedirectResult("http://www.ebanx.com/")
