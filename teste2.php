@@ -22,7 +22,6 @@ class MainAction extends Action {
 	function master() {
 		return 'oi';
 	var $strIdBody = "bHome";
-	var $strIdBody = "bHome";
 	var $strIdBody = "bHome2";
 
 	}
